@@ -298,7 +298,7 @@ class DiscordBot(commands.Bot):
 async def main():
     """Main function to start the bot"""
     # Get Discord token from environment variable
-    token = "MTQwODA3NjkyMTU5NzU5MTY5Mg.GRfVJq.O4M8lRXmn5sL-PveUCIfReKYy_yWEuUoxktuac"
+    token = "MTQwODA3NjkyMTU5NzU5MTY5Mg.GhNNc2.sM_a1I66OlHMr8dD2yJCB4a8OFzD82BYwLlTfw"
     
     if not token:
         logger.error('DISCORD_TOKEN not found in environment variables!')
