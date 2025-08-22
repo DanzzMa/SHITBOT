@@ -1,0 +1,87 @@
+2025-08-22 08:32:43,678 - discord_bot - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-08-22 08:32:43,679 - discord_bot - ERROR - Please set your Discord bot token in the environment or .env file
+2025-08-22 08:32:58,726 - discord_bot - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-08-22 08:32:58,726 - discord_bot - ERROR - Please set your Discord bot token in the environment or .env file
+2025-08-22 08:33:37,507 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:33:37,508 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:33:37,509 - discord_bot - INFO - Starting bot...
+2025-08-22 08:33:37,509 - discord.client - INFO - logging in using static token
+2025-08-22 08:33:38,058 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 82f2e6d81b51a45c3a1c9d1eb8656254).
+2025-08-22 08:33:38,117 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:33:38,118 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:33:38,118 - discord_bot - INFO - Starting bot...
+2025-08-22 08:33:38,118 - discord.client - INFO - logging in using static token
+2025-08-22 08:33:38,716 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c3c403190a7a1735d05f36f533ce9ce2).
+2025-08-22 08:33:40,071 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:33:40,071 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 08:33:40,724 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:33:40,725 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 08:35:08,404 - discord_bot.commands - INFO - Ping command used by wildunz_ - API: 36.98ms, Message: 203.22ms
+2025-08-22 08:35:08,605 - discord_bot.commands - INFO - Ping command used by wildunz_ - API: 40.54ms, Message: 414.73ms
+2025-08-22 08:35:17,045 - discord_bot.commands - INFO - Hello command used by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:35:17,183 - discord_bot.commands - INFO - Hello command used by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:35:45,795 - discord_bot.commands - INFO - Server info command used by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:35:46,060 - discord_bot.commands - INFO - Server info command used by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:36:20,665 - discord_bot.commands - INFO - User info command used by wildunz_ for user lilymboh_
+2025-08-22 08:36:20,837 - discord_bot.commands - INFO - User info command used by wildunz_ for user lilymboh_
+2025-08-22 08:37:52,790 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:37:52,790 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:37:52,790 - discord_bot - INFO - Starting bot...
+2025-08-22 08:37:52,791 - discord.client - INFO - logging in using static token
+2025-08-22 08:37:53,644 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7c8e66b1ad444f43eb1e284c4fcbd2b7).
+2025-08-22 08:37:55,654 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:37:55,654 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 08:38:30,366 - discord_bot.commands - INFO - Custom embed created by wildunz_
+2025-08-22 08:42:12,066 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:42:12,068 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:42:12,068 - discord_bot - INFO - Starting bot...
+2025-08-22 08:42:12,068 - discord.client - INFO - logging in using static token
+2025-08-22 08:42:12,668 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 82cea2be6bf54c6dddd7e7a61195528b).
+2025-08-22 08:42:14,691 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:42:14,691 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 08:43:51,863 - discord_bot.commands - INFO - Welcome channel set to 〔📥〕welcome-and-goodbye-log by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:44:15,757 - discord_bot - ERROR - Unhandled error in command setupverify: Role "@Verified" not found.
+2025-08-22 08:44:44,421 - discord_bot.commands - INFO - Verification system setup by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:50:52,776 - discord_bot - INFO - New member joined: underwear_14 in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:51:01,369 - discord_bot - INFO - Verified user: underwear_14 in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 08:55:53,915 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:55:53,917 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:55:53,917 - discord_bot - INFO - Starting bot...
+2025-08-22 08:55:53,917 - discord.client - INFO - logging in using static token
+2025-08-22 08:55:54,565 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5b41a2e7780245a5a97974fb8e70c3a9).
+2025-08-22 08:55:56,575 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:55:56,575 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 08:56:10,667 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:56:10,669 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:56:10,669 - discord_bot - INFO - Starting bot...
+2025-08-22 08:56:10,669 - discord.client - INFO - logging in using static token
+2025-08-22 08:56:10,870 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-22 08:56:10,872 - discord_bot.commands - INFO - All commands have been loaded successfully
+2025-08-22 08:56:10,872 - discord_bot - INFO - Starting bot...
+2025-08-22 08:56:10,872 - discord.client - INFO - logging in using static token
+2025-08-22 08:56:11,211 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d27040a7bb79c5956f3f3aca97685889).
+2025-08-22 08:56:11,504 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e1ab4de4a98656dcbc19c3ef13e20cd4).
+2025-08-22 08:56:13,237 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:56:13,237 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 08:56:13,513 - discord_bot - INFO - 𝕊.ℍ.𝕀.𝕋 ASISTEN#2698 has connected to Discord!
+2025-08-22 08:56:13,513 - discord_bot - INFO - Bot is in 1 guild(s)
+2025-08-22 09:00:21,646 - discord_bot.commands - INFO - Game role <:Fivem:1408092033712914513> → Fivem Player added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:00:21,812 - discord_bot.commands - INFO - Game role <:Fivem:1408092033712914513> → Fivem Player added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:01:38,728 - discord_bot.commands - INFO - Game role <:Roblox:1408092242056318988> → Roblox Player added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:01:38,751 - discord_bot.commands - INFO - Game role <:Roblox:1408092242056318988> → Roblox Player added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:02:35,297 - discord_bot.commands - INFO - Game role <:emoji_27:1176151972995408002> → Minecraft Player added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:02:35,357 - discord_bot.commands - INFO - Game role <:emoji_27:1176151972995408002> → Minecraft Player added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:03:09,570 - discord_bot.commands - INFO - Game role <:emoji_28:1176356359730638898> → SAMP PLAYER added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:03:09,653 - discord_bot.commands - INFO - Game role <:emoji_28:1176356359730638898> → SAMP PLAYER added by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:04:18,868 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225365229680/reactions/%3AFivem%3A1408092033712914513/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:19,253 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225365229680/reactions/%3AFivem%3A1408092033712914513/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:19,645 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225205846057/reactions/%3Aemoji_27%3A1176151972995408002/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:20,055 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225365229680/reactions/%3ARoblox%3A1408092242056318988/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:20,530 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225205846057/reactions/%3Aemoji_28%3A1176356359730638898/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:20,930 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225205846057/reactions/%3Aemoji_28%3A1176356359730638898/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:21,328 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1176307216945533021/messages/1408376225365229680/reactions/%3Aemoji_28%3A1176356359730638898/@me responded with 429. Retrying in 0.30 seconds.
+2025-08-22 09:04:21,911 - discord_bot.commands - INFO - Game role selection setup by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:04:22,371 - discord_bot.commands - INFO - Game role selection setup by wildunz_ in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:11:41,596 - discord_bot - INFO - Game role Roblox Player added to koneko_89 in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:11:44,104 - discord_bot - INFO - Game role SAMP PLAYER added to koneko_89 in 𝕊.ℍ.𝕀.𝕋 🤜COMMUNITY🤛 DISCORD HUB
+2025-08-22 09:14:36,777 - discord.gateway - INFO - Shard ID None has successfully RESUMED session e1ab4de4a98656dcbc19c3ef13e20cd4.
